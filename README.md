@@ -13,7 +13,5 @@ No Login Page. No User Creation. Only transfer of money between multiple users.<
 Host the website at 000webhost. github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 <br><br>
 
-Website link:- https://bank-of-spark.herokuapp.com/index.html<br>
-GitHub Link:- https://github.com/aditijain1511/BankingSystem_sparkFoundation<br>
-You Tube Link:- https://www.youtube.com/watch?v=XmOvLismqHE<br>
+Website link:- <br>
 Linkedin Link:- https://www.linkedin.com/in/mukul-w-8bba681b7/<br>
